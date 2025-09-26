@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 记录一些日常</title>
+    <link>http://116.62.8.77:80/categories/</link>
+    <description>Recent content in Categories on 记录一些日常</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 Sep 2025 16:49:20 +0800</lastBuildDate>
+    <atom:link href="http://116.62.8.77:80/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github</title>
+      <link>http://116.62.8.77:80/categories/github/</link>
+      <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
+      <guid>http://116.62.8.77:80/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术</title>
+      <link>http://116.62.8.77:80/categories/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
+      <guid>http://116.62.8.77:80/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>教程</title>
+      <link>http://116.62.8.77:80/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
+      <guid>http://116.62.8.77:80/categories/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
