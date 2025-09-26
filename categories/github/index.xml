@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on 记录一些日常</title>
-    <link>http://116.62.8.77:80/categories/github/</link>
+    <link>https://hanling1.github.io:80/hanblog.github.io/categories/github/</link>
     <description>Recent content in Github on 记录一些日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 26 Sep 2025 16:49:20 +0800</lastBuildDate>
-    <atom:link href="http://116.62.8.77:80/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hanling1.github.io:80/hanblog.github.io/categories/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>github比较有用的项目</title>
-      <link>http://116.62.8.77:80/posts/github/</link>
+      <link>https://hanling1.github.io:80/hanblog.github.io/posts/github/</link>
       <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
-      <guid>http://116.62.8.77:80/posts/github/</guid>
+      <guid>https://hanling1.github.io:80/hanblog.github.io/posts/github/</guid>
       <description>本文收藏一些github项目</description>
     </item>
   </channel>

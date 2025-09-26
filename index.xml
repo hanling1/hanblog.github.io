@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>记录一些日常</title>
-    <link>http://116.62.8.77:80/</link>
+    <link>https://hanling1.github.io:80/hanblog.github.io/</link>
     <description>Recent content on 记录一些日常</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 26 Sep 2025 16:49:20 +0800</lastBuildDate>
-    <atom:link href="http://116.62.8.77:80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hanling1.github.io:80/hanblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>github比较有用的项目</title>
-      <link>http://116.62.8.77:80/posts/github/</link>
+      <link>https://hanling1.github.io:80/hanblog.github.io/posts/github/</link>
       <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
-      <guid>http://116.62.8.77:80/posts/github/</guid>
+      <guid>https://hanling1.github.io:80/hanblog.github.io/posts/github/</guid>
       <description>本文收藏一些github项目</description>
     </item>
     <item>
       <title>Hugo 比较有用的bat脚本</title>
-      <link>http://116.62.8.77:80/posts/hugo/</link>
+      <link>https://hanling1.github.io:80/hanblog.github.io/posts/hugo/</link>
       <pubDate>Fri, 26 Sep 2025 16:49:20 +0800</pubDate>
-      <guid>http://116.62.8.77:80/posts/hugo/</guid>
+      <guid>https://hanling1.github.io:80/hanblog.github.io/posts/hugo/</guid>
       <description>3个有用的bat脚本</description>
     </item>
   </channel>
